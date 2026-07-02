@@ -4,7 +4,7 @@
 I'm a passionate researcher with a love for creating algorithms for metabolomics. I'm always looking for hard and right challenges to tackle.
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/james-zhan-ms-rd-434791121/](https://www.linkedin.com/in/james-zhan-ms-rd-434791121)
-- 📫 Email: [jzha832@emory.edu](mailto:jzha832@emory.edu)
+- 📫 Email: [jamesjiadazhan@gmail.com](mailto:jamesjiadazhan@gmail.com)
 
 ## 🔧 Technologies & Tools
 - **Languages:** R, Python
