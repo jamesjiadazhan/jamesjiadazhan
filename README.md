@@ -15,7 +15,7 @@ Here are a few projects I've worked on:
 ### [Project 1: dietaryindex](https://github.com/jamesjiadazhan/dietaryindex)
 Dietaryindex is an R package that provides user-friendly, streamlined methods for calculating index-based dietary patterns (dietary index) for NHANES and many other nutritional assessment, including ASA24, DHQ3, and Block FFQ.
 
-### [Project 2: MetaboIndex](https://github.com/jamesjiadazhan/dietaryindex)
+### [Project 2: MetaboIndex](https://github.com/jamesjiadazhan/MetaboIndex)
 MetaboIndex provides tools for metabolomics-based dietary inflammation scoring (The Dietary Metabolite Inflammatory Index) and reference standardization quantification workflows. The Dietary Metabolite Inflammatory Index offers a complementary approach to measure inflammation-related dietary intake using untargeted metabolomics in addition to self-reporting dietary intake.
 
 ### [Project 3: MSMICA](https://github.com/jamesjiadazhan/MSMICA)
